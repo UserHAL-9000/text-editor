@@ -40,5 +40,9 @@ THEN I should have proper build scripts for a webpack application
 
 # Deployed Application 
 
+https://serene-atoll-22267.herokuapp.com/
+
 
 # GitHub Repo
+
+https://github.com/UserHAL-9000/text-editor
